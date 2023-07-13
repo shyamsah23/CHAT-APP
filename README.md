@@ -1,5 +1,5 @@
 
-# ChatiFy
+# ChatiFyr
 
 The Chat-app build using Next.js, Tailwind, and Firebase is a real-time messaging application that allows users to communicate with each other in a simple and intuitive interface. Here's a brief description of the key components :
 
