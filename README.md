@@ -75,6 +75,33 @@ To run tests, run the following command
 - Provide users with the ability to Block/Unblock other users as needed
 - Keep conversations organized by implementing Delete/Clear Chat functionality
 
+## ScreenShot
+
+- Login and Signup
+  
+ 
+![register](https://github.com/shyamsah23/CHAT-APP/assets/92447257/b6e6cb39-0df7-46de-99a6-9181ea12033c)
+
+
+- Search Different User
+  
+ 
+![search_User](https://github.com/shyamsah23/CHAT-APP/assets/92447257/e5bd1631-1b23-47a9-a749-6658b93ddb2b)
+
+
+- One to One Private Conversation
+  
+  
+![chat](https://github.com/shyamsah23/CHAT-APP/assets/92447257/2180aeb8-e7b3-458f-ad4b-be0a51912b69)
+
+
+- Edit , Delete Chat , Block and Unblock Feature
+  
+ 
+![delete](https://github.com/shyamsah23/CHAT-APP/assets/92447257/2a75097f-4f9b-4870-b339-6d5c41abcbb1)
+
+
+
 
 ## Environment Variables
 
